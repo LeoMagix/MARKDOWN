@@ -1,4 +1,5 @@
 # **WELCOME TO MY MARKDOWN WORLD!**:
+
 	This folder houses all things markdown. Through varying topics and subjects I will attempt to perfect my 
 knowledge of the *markup language*, now these topics or discourse range from sports to anything that piques my interest (well except for *politics*, too sensitive of a topic nowadays and I never really liked ~~_politicians_~~ anyway, that 
 besides the point). The information here provided will be a culmination of facts and personal opinions, so if I say 
