@@ -2,4 +2,4 @@
 
 | **Artiste** | **Song Title**         | **Genre** |
 |   :------   |   :---------:          |   ----:   |
-| Ric Hassani | As long as you love me | afrobeats |
+| _Ric Hassani_ | As long as you love me | afrobeats |
