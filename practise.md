@@ -13,6 +13,5 @@ Here contained in this file is information of no real importance but just text t
 Samuel Ajayi Crowther-> "Says high"
 
 This is a test file to test the test of copying succesfully on the command line
-+ This syntax opens an emoji tab
-	'win key + ;'
-
++ This syntax opens an emoji tab `win key + ;`
+	+ one nested tab
