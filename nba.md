@@ -5,19 +5,24 @@ The league is divided into **Western** and **Eastern** conference, with thirty(*
 
 And there is the _regular season_ where each team gets to play eighty-two(_82_) games battling both teams within
 and outside their conference for the top eight(*8*) seeds in their respective conferences.The top seeds get to 
-feature in the play-offs, which consists of three(*3*) rounds (The first round, semi-finals and conference finals). 
+feature in the [*playoffs*](https://en.wikipedia.org/wiki/NBA_playoffs), which consists of three(*3*) rounds 
+(The first round, semi-finals and conference finals). 
+
 The penultimate stage is the finals, featuring a team from the eastern and western conference. Each stage of the 
 play-offs is a best of *'7'*, that is, a seven game series to decide the winner, and the winner of the finals is 
-crowned **NBA CHAMPION**.
+crowned **NBA CHAMPION**. Aside the **[_Larry 'O Brien Trophy_](https://en.wikipedia.org/wiki/Larry_O%27Brien_Championship_Trophy)** 
+awarded in the finals to the victorious team, the **NBA** also awards the following individual trophies, 
+listed are the ones with the most prestige:
 
-Apart from the **_Larry 'O Brien_** trophy awarded in the finals to the victorious team, the **NBA** also awards 
-the following individual trophies, listed are the ones with the most prestige:
++ Most Valuable Player(**_MVP_**), referred to as the **[Michael Jordan Trophy](https://en.wikipedia.org/wiki/NBA_Most_Valuable_Player_Award)**. 
+It is given to the best player of the regular season.
 
-+ Most Valuable Player(**_MVP_**), a regular season award, presently referred to as the **Michael Jordan** trophy 
-+ Defensive Player of the Year(__*DPOY*__), now known as the **Hakeem Olajuwon** trophy, also a regular season award
-+ Rookie of the year, a regular season award
-+ Finals Most valuable Player, the **Bill Russell** trophy, a play-off award given to the best player in the finals
-series. 
++ Defensive Player of the Year(__*DPOY*__) known now as the **[Hakeem Olajuwon](https://www.nba.com/rockets/news/nba-renames-defensive-player-of-year-award-in-honor-of-hakeem-olajuwon)** trophy, also a regular season award presented to the best defensive player during the season.
+
++ Rookie of the year, now the [Wilt Chamberlain Trophy](https://therookiewire.usatoday.com/2022/12/13/nba-rookie-of-the-year-trophy-wilt-chamberlain/), a regular season award presented to the player who has performed exceptionally in their first year in the **NBA**.
+
++ Finals Most valuable Player, the **[Bill Russell Trophy](https://en.wikipedia.org/wiki/NBA_Finals_Most_Valuable_Player_award)** , 
+a playoff award given to the best player in the finals series. 
 
 Other regular season awards but with less repute given by the **NBA** include, *Sixth man of the year*, *Clutch player
 of the season*.
