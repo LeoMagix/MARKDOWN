@@ -31,10 +31,10 @@ of the season*.
 
 ## **_Eastern Conference_**
 
-	1. *Boston Celtics*
-	2. *Cleveland Caveliers*
-	2. *Miami Heats*
-	1. *Atlanta Hawks*
+1. *Boston Celtics*
+2. *Cleveland Caveliers*
+2. *Miami Heats*
+	1. _Atlanta Hawks_
 	1. *Chicago Bulls*
 	1. *Detroit Pistons*
 	1. *New York Knicks*
@@ -49,8 +49,8 @@ of the season*.
 
 ## **_Western Conference_**
 
-	1. *Los Angeles Lakers*
-	1. *Los Angeles Clippers*
+1. *Los Angeles Lakers*
+1. *Los Angeles Clippers*
 	1. *Utah Jazz*
 	1. *Denver Nuggets*
 	1. *Phoenix Suns*
@@ -70,12 +70,12 @@ of the season*.
 | **Basketball club** | **Championship year** |
 | :------------:      | 	----:         |
 |**Denver Nuggets**  | 	*2023*        |
-| 	----          |		-----	      |
+| 	----          |		:-----	      |
 |**Cleveland Cavaliers** | *2016*	      |
 |	----	      |		----	      |
 |**Milwaukee Bucks** |		*2021*
 				*1970*	      |
 |	----	      |		-----	      |
 |**Houston Rockets** | *1995*
-*1996* |
+		       *1996* 		      |
 
