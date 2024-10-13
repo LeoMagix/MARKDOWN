@@ -38,6 +38,7 @@ of the season*.
 2. *Cleveland Caveliers*
 
 ![Cleveland Cavelier logo](https://github.com/LeoMagix/MARKDOWN/blob/ceb6c52fe5a1a36fb0fe393399cc3bb6fd3e894a/Cleveland%20Caveliers%20logo.jpeg)
+
 2. *Miami Heats*
 1. _Atlanta Hawks_
 1. *Chicago Bulls*
