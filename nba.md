@@ -68,7 +68,7 @@ of the season*.
 3. *Memphis Grizlies*
 1. *New Orlean Pelicans*
 	
-**Ball CLubs With NBA Championships**
+**Ball Clubs With NBA Championships**
 ---
 | **Basketball club** | **Championship year** |
 | :------------:      | 	----:         |
