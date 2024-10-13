@@ -32,7 +32,9 @@ of the season*.
 ## **_Eastern Conference_**
 
 1. *Boston Celtics*
+
 ![The Garden](https://www.pinterest.com/pin/boston-celtics--46302702407161929/)
+
 2. *Cleveland Caveliers*
 2. *Miami Heats*
 	1. _Atlanta Hawks_
