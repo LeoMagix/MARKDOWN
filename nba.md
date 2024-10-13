@@ -33,7 +33,7 @@ of the season*.
 
 1. *Boston Celtics*
 
-![The Garden](https://www.pinterest.com/pin/boston-celtics--46302702407161929/)
+![Celtics](https://github.com/LeoMagix/MARKDOWN/blob/210aa5d0613fe5bdcf4b3577c6510bd0baed3a38/Boston%20Celtics.jpeg)
 
 2. *Cleveland Caveliers*
 2. *Miami Heats*
