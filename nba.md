@@ -36,12 +36,14 @@ of the season*.
 ![Celtics](https://github.com/LeoMagix/MARKDOWN/blob/210aa5d0613fe5bdcf4b3577c6510bd0baed3a38/Boston%20Celtics.jpeg)
 
 2. *Cleveland Caveliers*
+
+![Cleveland Cavelier logo](https://github.com/LeoMagix/MARKDOWN/blob/ceb6c52fe5a1a36fb0fe393399cc3bb6fd3e894a/Cleveland%20Caveliers%20logo.jpeg)
 2. *Miami Heats*
-	1. _Atlanta Hawks_
-	1. *Chicago Bulls*
-	1. *Detroit Pistons*
-	1. *New York Knicks*
-	1. *Indiana Pacers* 
+1. _Atlanta Hawks_
+1. *Chicago Bulls*
+1. *Detroit Pistons*
+1. *New York Knicks*
+1. *Indiana Pacers* 
 1. *Milwaukee Bucks*
 1. *Charlotte Hornets*
 2. *Brooklyn Nets*
@@ -54,14 +56,14 @@ of the season*.
 
 1. *Los Angeles Lakers*
 1. *Los Angeles Clippers*
-	1. *Utah Jazz*
-	1. *Denver Nuggets*
-	1. *Phoenix Suns*
-	2. *Dallas Mavericks*
-	2. *Oklahama Thunder*
-	2. *Minneseota Timberwolves*
-	1. *Houston Rockets*
-	1. *San Antonio Spurs*
+1. *Utah Jazz*
+1. *Denver Nuggets*
+1. *Phoenix Suns*
+2. *Dallas Mavericks*
+2. *Oklahama Thunder*
+2. *Minneseota Timberwolves*
+1. *Houston Rockets*
+1. *San Antonio Spurs*
 1. *Portland Trailblazers*
 1. *Sacramento Kings*
 3. *Golden State Warriors*	
