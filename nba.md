@@ -32,6 +32,7 @@ of the season*.
 ## **_Eastern Conference_**
 
 1. *Boston Celtics*
+![The Garden](https://www.pinterest.com/pin/boston-celtics--46302702407161929/)
 2. *Cleveland Caveliers*
 2. *Miami Heats*
 	1. _Atlanta Hawks_
@@ -39,13 +40,13 @@ of the season*.
 	1. *Detroit Pistons*
 	1. *New York Knicks*
 	1. *Indiana Pacers* 
-	1. *Milwaukee Bucks*
-	1. *Charlotte Hornets*
-	2. *Brooklyn Nets*
-	2. *Philadelphia 76ers*
-	2. *Toronto Raptors*
-	1. *Orlando Magics*
-	1. *Washinton Wizards*
+1. *Milwaukee Bucks*
+1. *Charlotte Hornets*
+2. *Brooklyn Nets*
+2. *Philadelphia 76ers*
+2. *Toronto Raptors*
+1. *Orlando Magics*
+1. *Washinton Wizards*
 
 ## **_Western Conference_**
 
@@ -59,11 +60,11 @@ of the season*.
 	2. *Minneseota Timberwolves*
 	1. *Houston Rockets*
 	1. *San Antonio Spurs*
-	1. *Portland Trailblazers*
-	1. *Sacramento Kings*
-	3. *Golden State Warriors*
-	3. *Memphis Grizlies*
-	1. *New Orlean Pelicans*
+1. *Portland Trailblazers*
+1. *Sacramento Kings*
+3. *Golden State Warriors*	
+3. *Memphis Grizlies*
+1. *New Orlean Pelicans*
 	
 **Ball CLubs With NBA Championships**
 ---
